@@ -1,0 +1,10 @@
+monkey
+bear
+bird
+kangaroo
+turtle
+camel
+hippopotamus
+shark
+elephant
+horse

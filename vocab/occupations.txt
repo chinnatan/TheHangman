@@ -1,0 +1,10 @@
+teacher
+soldier
+doctor
+actor
+salesman
+butcher
+detective
+accountant
+scientist
+plumber
